@@ -11,7 +11,7 @@ Describe myself, where I am from, passion etc. Maybe throw in a shameless pictur
   * [2015 Summer](#2015-Summer) <br>
   * [2014-2015](#2014-2015) <br>
 * [Publications](#Publications) <br>
-* [Fun stuffs](#Fun-stuffs) <br>
+* [Fun stuff](#Fun-stuff) <br>
   * [Travel](#Travel) <br>
   * [Hobbies](#Hobbies) <br>
 <!--te-->
