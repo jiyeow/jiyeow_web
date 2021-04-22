@@ -1,7 +1,7 @@
 Insert a picture here
 
 - I grew up in Kuala Lumpur, Malaysia. <br>
-- I moved out from Malaysia to Ames, Iowa, United States. <br>
+- I moved from Malaysia to Ames, Iowa, United States. <br>
 - I was shocked to find out that Ames is not like Los Angeles (thank you Hollywood). <br>
 - I got my B.S. and M.S. degrees at Iowa State University. <br>
 - I had a few hourly jobs and internships when studying. <br>
@@ -13,8 +13,7 @@ Insert a picture here
 - I got stuck in Ames (just kidding - I fell in love with Ames). <br>
 - I look forward to next adventures and challenges in a new city. <br>
 
-Insert resume here
-Insert links to LinkedIn, Google Scholar, Research gate, etc. here
+Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc. here
 
 ## If you're really into my life
 <!--ts-->
