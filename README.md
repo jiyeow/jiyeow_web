@@ -25,7 +25,7 @@ Insert links to LinkedIn, Google Scholar, Research gate, etc. here
   * [2018 Spring](#2018-spring) <br>
   * [2015-2017](#2015---2017) <br>
   * [2015 Summer](#2015-summer) <br>
-  * [2014-2015](#2014---2015) <br>
+  * [2014-2015](#2014---2015)
 * [Publications and Certifications](#publications-and-certifications) <br>
 * [Fun stuff](#fun-stuff) <br>
   * [Travel](#travel) <br>
@@ -34,12 +34,12 @@ Insert links to LinkedIn, Google Scholar, Research gate, etc. here
 
 ## Education
 #### Short story
-- Master of Science (2017), Iowa State University <br>
+- __Master of Science (2017), Iowa State University__ <br>
 Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
 Civil Engineering (Environmental Focus) <br>
 Thesis Title: Electrical stimulation for enhanced denitrification in woodchip bioreactors. <br>
 GPA: 3.92/4.00 <br>
-- Bachelor of Science, _magna cum laude_, Iowa State University (2016) <br>
+- __Bachelor of Science, _magna cum laude_, Iowa State University__ (2016) <br>
 Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
