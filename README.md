@@ -13,7 +13,7 @@
 
 ## Navigation
 <!--ts-->
-* [Education](#Education) <br>
+* [Education](#education) <br>
 * [Work Experience](#Work-Experience) <br>
   * [2018 - present](#2018-present) <br>
   * [2018 Spring](#2018-Spring) <br>
