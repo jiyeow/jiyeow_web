@@ -10,7 +10,7 @@ Insert a picture here
 - I stare at computer screen and drink too much coffee when I am working inside. <br>
 - I enjoy building stuff (woodworking) and fixing stuff (my car) in my garage. <br>
 - I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
-- I got stuck in Ames (just kidding - I fell in love with Ames). <br>
+- I am stuck in Ames (just kidding - I learned to love Ames and the people I met). <br>
 - I look forward to next adventures and challenges in a new city. <br>
 
 Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc. here
