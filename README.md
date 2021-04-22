@@ -1,16 +1,15 @@
-I grew up in Kuala Lumpur, Malaysia. <br>
-I moved out from Malaysia to Ames, Iowa, United States. <br>
-I was shocked to find out that Ames is not like Los Angeles (you can thank Hollywood for my expectation). <br>
-I got my B.S. degree in Agricultural Engineering at Iowa State University. <br>
-I got my M.S. degree in Agricultural & Biosystems Engineering (co-major Civil Engineering) at Iowa State University. <br>
-I had a few hourly jobs and internships when studying. <br>
-I am now a full-time research engineer at Iowa State University. <br>
-I collect environmental samples, install/maintain/repair field instruments, and chase after waterfowls when I am working outside. <br>
-I write proposals, do budgeting, prepare work plans/SOPs, create design drawings, analyze data, write reports/manuscripts, and drink too much coffee when I am working inside. <br>
-I enjoy building stuff (woodworking) and fixing stuff (my car) in my garage. <br>
-I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
-I got stuck in Ames (just kidding - I fell in love with Ames). <br>
-I look forward to next adventures and challenges in a new city. <br>
+- I grew up in Kuala Lumpur, Malaysia. <br>
+- I moved out from Malaysia to Ames, Iowa, United States. <br>
+- I was shocked to find out that Ames is not like Los Angeles (thank you Hollywood). <br>
+- I got my B.S. and M.S. degrees at Iowa State University. <br>
+- I had a few hourly jobs and internships when studying. <br>
+- I am now a full-time research engineer at Iowa State University. <br>
+- I collect environmental samples and chase after waterfowls when I am working outside. <br>
+- I stare at computer screen and drink too much coffee when I am working inside. <br>
+- I enjoy building stuff (woodworking) and fixing stuff (my car) in my garage. <br>
+- I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
+- I got stuck in Ames (just kidding - I fell in love with Ames). <br>
+- I look forward to next adventures and challenges in a new city. <br>
 
 ## Navigation
 <!--ts-->
