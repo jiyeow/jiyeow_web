@@ -26,7 +26,7 @@ Insert links to LinkedIn, Google Scholar, Research gate, etc. here
   * [2015-2017](#2015---2017) <br>
   * [2015 Summer](#2015-summer) <br>
   * [2014-2015](#2014---2015) <br>
-* [Publications](#publications) <br>
+* [Publications and Certifications](#publications-and-certifications) <br>
 * [Fun stuff](#fun-stuff) <br>
   * [Travel](#travel) <br>
   * [Hobbies](#hobbies) <br>
@@ -34,7 +34,13 @@ Insert links to LinkedIn, Google Scholar, Research gate, etc. here
 
 ## Education
 #### Short story
-
+- Master of Science (2017) <br>
+Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) and Civil Engineering (Environmental Focus) <br>
+Thesis Title: Electrical stimulation for enhanced denitrification in woodchip bioreactors. <br>
+GPA: 3.92/4.00 <br>
+- Bachelor of Science, _magna cum laude_ (2016) <br>
+Major: Agricultural Engineering (Land & Water Resources Focus) <br>
+GPA: 3.76/4.00 <br>
 
 #### Long story
 I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__.
@@ -60,7 +66,7 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 
 ##### 2014 - 2015
 
-## Publications
+## Publications and Certifications
 
 ## Fun stuff
 
