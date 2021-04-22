@@ -34,11 +34,12 @@ Insert links to LinkedIn, Google Scholar, Research gate, etc. here
 
 ## Education
 #### Short story
-- Master of Science (2017) <br>
-Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) and Civil Engineering (Environmental Focus) <br>
+- Master of Science (2017), Iowa State University <br>
+Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
+Civil Engineering (Environmental Focus) <br>
 Thesis Title: Electrical stimulation for enhanced denitrification in woodchip bioreactors. <br>
 GPA: 3.92/4.00 <br>
-- Bachelor of Science, _magna cum laude_ (2016) <br>
+- Bachelor of Science, _magna cum laude_, Iowa State University (2016) <br>
 Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
@@ -49,11 +50,11 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 
 ## Work Experience
 #### Short story
-- 2018 - present : __Environmental Research Engineer__, _Iowa State University, Ames, IA, USA._ <br>
-- 2018 Spring    : Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA. <br>
-- 2015-2017      : Graduate Research Assistant, Iowa State University, Ames, IA, USA. <br>
-- 2015 Summer    : Research Intern, University of Malaya, Kuala Lumpur Malaysia. <br>
-- 2014-2015      : Undergraduate Research Assistant, Iowa State University, Ames, IA, USA. <br>
+- __2018 - present__ : Environmental Research Engineer, _Iowa State University, Ames, IA, USA._ <br>
+- __2018 Spring__    : Research Analyst Intern, _Iowa Soybean Association, Ankeny, IA, USA._ <br>
+- __2015-2017__      : Graduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
+- __2015 Summer__    : Research Intern, _University of Malaya, Kuala Lumpur Malaysia._ <br>
+- __2014-2015__      : Undergraduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
 
 #### Long story (well not really)
 ##### 2018 - Present
