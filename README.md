@@ -43,7 +43,7 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 
 ## Work Experience
 #### Short story
-- 2018 - present : Environmental Research Engineer, Iowa State University, Ames, IA, USA. <br>
+- 2018 - present : __Environmental Research Engineer__, _Iowa State University, Ames, IA, USA._ <br>
 - 2018 Spring    : Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA. <br>
 - 2015-2017      : Graduate Research Assistant, Iowa State University, Ames, IA, USA. <br>
 - 2015 Summer    : Research Intern, University of Malaya, Kuala Lumpur Malaysia. <br>
