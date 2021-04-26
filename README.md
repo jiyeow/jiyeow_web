@@ -1,4 +1,6 @@
-Insert a picture here
+<kbd>
+<img src="jy_pic.jpg" height="500"> <br>
+</kbd> <br>
 
 - I grew up in Kuala Lumpur, Malaysia. <br>
 - I moved from Malaysia to Ames, Iowa, United States. <br>
@@ -33,7 +35,7 @@ Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc
 <!--te-->
 
 ## Education
-#### Short story
+##### Short story
 - __Master of Science (2017), Iowa State University__ <br>
 Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
 Civil Engineering (Environmental Focus) <br>
@@ -44,7 +46,7 @@ Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
 <details>
-  <summary>Long story</summary>
+  <summary>Long story (click for more)</summary>
   
 I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__. 
 </details>
