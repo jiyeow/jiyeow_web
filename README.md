@@ -26,7 +26,7 @@ Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc
   * [2018 Spring](#2018-spring) <br>
   * [2015-2017](#2015---2017) <br>
   * [2015 Summer](#2015-summer) <br>
-  * [2014-2015](#2014---2015)
+  * [2014-2015](#2014---2015) <br>
 * [Publications and Certifications](#publications-and-certifications) <br>
 * [Fun stuff](#fun-stuff) <br>
   * [Travel](#travel) <br>
