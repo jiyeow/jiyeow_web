@@ -73,7 +73,9 @@ In the near future, I wish to apply my water quality expertise in sustainable aq
 </details>
 
 ## Skills and Software
-#### Skills
+<details>
+  <summary>Skills (click for more)</summary>
+ 
 - Data management and analysis (e.g., statistics)
 - Techno-economic analysis
 - Computer aided drawing (CAD)
@@ -85,7 +87,11 @@ In the near future, I wish to apply my water quality expertise in sustainable aq
 - Project management
 - Multilingual (English - primary, Mandarin, Malay)
 
-#### Software
+</details>
+
+<details>
+  <summary>Software (click for more)</summary>
+ 
 - Data management and analysis
   - MS Excel (VBA programming to manage and analyze large datasets)
   - Python (to manage and analyze even larger datasets)
@@ -95,6 +101,8 @@ In the near future, I wish to apply my water quality expertise in sustainable aq
   - AutoCAD
   - SolidWorks 
   - ArcGIS
+
+</details>
 
 ## Work Experience
 #### Short story
