@@ -61,13 +61,13 @@ GPA: 3.76/4.00 <br>
 <details>
   <summary>Long story (click for more)</summary>
 
-In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairements) were primarily contributed by the intensive agricultural activities. Besides the local water quality concerns, pollutant loading from Iowa also has impacted downstream communities economically (i.e., the Gulf of Mexico). As a environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
+In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairements) were contributed by the intensive agricultural activities. Besides the local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As a environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
 
 I am interested in environmental monitoring, which studies the fate and transport of point source (e.g., urban) and nonpoint source (e.g., agriculture) pollutants in the environment. Besides identifying the pollutant sources, I also provide strategies to manage or remediate land and water resources using the most cost-effective approaches. <br>
 
-I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as a proof-of-concept. In the field, I helped nonprofit agencies (ocassionally private clients) to design and perform field monitoring. When needed, I also enjoy working with clients to identify the suitable best management practices from the perspectives of soil/water quality goal, landscape characteristics, treatment time, and cost. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br> 
+I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as a proof-of-concept. In the field, I helped nonprofit agencies (ocassionally private clients) to design and perform field monitoring. When needed, I also help clients to identify suitable best management practices that meet his/her/their soil and water quality goals, landscape characteristics, treatment time, and costs. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br> 
 
-In the near future, I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to work to maximize the production and cost efficiency of aquaculture through recirculating aquaculture system and/or aquaponics (aquaculture + hydroponics). 
+In the near future, I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve the production and cost efficiency of aquaculture using recirculating aquaculture system and/or aquaponics (aquaculture + hydroponics). 
 
 </details>
 
