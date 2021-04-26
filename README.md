@@ -21,7 +21,7 @@ Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc
 ## Story of my life
 <!--ts-->
 * [Education](#education) <br>
-* [Skills](#skills) <br>
+* [Skills and Software](#skills-and-software) <br>
 * [Work Experience](#work-experience) <br>
   * [2018 - present](#2018---present) <br>
   * [2018 Spring](#2018-spring) <br>
@@ -62,7 +62,7 @@ I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design 
 In the near future, I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to work to maximize the production and cost efficiency of aquaculture through recirculating aquaculture system and/or aquaponics (aquaculture + hydroponics). 
 
 ## Skills and Software
-### Skills
+#### Skills
 - Data management and analysis (e.g., statistics)
 - Techno-economic analysis
 - Computer aided drawing (CAD)
@@ -74,7 +74,7 @@ In the near future, I wish to apply my water quality expertise in sustainable aq
 - Project management
 - Multilingual (English - primary, Mandarin, Malay)
 
-### Software
+#### Software
 - Data management and analysis
   - MS Excel (VBA programming to manage and analyze large datasets)
   - Python (to manage and analyze even larger datasets)
