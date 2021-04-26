@@ -4,7 +4,8 @@ Insert a picture here
 - I moved from Malaysia to Ames, Iowa, United States. <br>
 - I was shocked to find out that Ames is not like Los Angeles (thank you Hollywood). <br>
 - I got my B.S. and M.S. degrees at Iowa State University. <br>
-- I had a few hourly jobs and internships when studying. <br>
+- I had a few hourly jobs in the research labs when studying. <br>
+- I also had one internship in Malaysia and one in the USA. <br>
 - I am now a full-time research engineer at Iowa State University. <br>
 - I collect environmental samples and chase after waterfowls when I am working outside. <br>
 - I stare at computer screen and drink too much coffee when I am working inside. <br>
@@ -42,8 +43,11 @@ GPA: 3.92/4.00 <br>
 Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
-#### Long story
-I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__.
+<details>
+  <summary>Long story</summary>
+  
+I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__. 
+</details>
 
 ## Skills
 
@@ -55,7 +59,9 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 - __2015 Summer__    : Research Intern, _University of Malaya, Kuala Lumpur Malaysia._ <br>
 - __2014-2015__      : Undergraduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
 
-#### Long story (well not really)
+<details>
+  <summary>Long story</summary>
+
 ##### 2018 - Present
 
 ##### 2018 Spring
@@ -65,6 +71,7 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 ##### 2015 Summer
 
 ##### 2014 - 2015
+</details>
 
 ## Publications and Certifications
 
