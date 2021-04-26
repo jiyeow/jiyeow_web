@@ -1,7 +1,6 @@
-<kbd>
-<img src="jy_pic.jpg" height="500"> <br>
-</kbd> <br>
-
+<table><tr><td>
+ <img src="jy_pic.jpg" height="500" /> 
+</td></tr></table> <br>
 - I grew up in Kuala Lumpur, Malaysia. <br>
 - I moved from Malaysia to Ames, Iowa, United States. <br>
 - I was shocked to find out that Ames is not like Los Angeles (thank you Hollywood). <br>
