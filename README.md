@@ -18,7 +18,7 @@
 
 Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc. here
 
-## If you're really into my life
+## Story of my life
 <!--ts-->
 * [Education](#education) <br>
 * [Skills](#skills) <br>
@@ -35,7 +35,7 @@ Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc
 <!--te-->
 
 ## Education
-##### Short story
+#### Short story
 - __Master of Science (2017), Iowa State University__ <br>
 Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
 Civil Engineering (Environmental Focus) <br>
@@ -49,12 +49,44 @@ GPA: 3.76/4.00 <br>
   <summary>Long story (click for more)</summary>
   
 I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__. 
+
 </details>
 
-## Skills
+## Area of Interest and Expertise
+In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairements) were primarily contributed by the intensive agricultural activities. Besides the local water quality concerns, pollutant loading from Iowa also has impacted downstream communities economically (i.e., the Gulf of Mexico). As a environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br>
+
+I am interested in environmental monitoring, which studies the fate and transport of point source (e.g., urban) and nonpoint source (e.g., agriculture) pollutants in the environment. Besides identifying the pollutant sources, I also provide strategies to manage or remediate land and water resources using the most cost-effective approaches. <br>
+
+I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as a proof-of-concept. In the field, I helped nonprofit agencies (ocassionally private clients) to design and perform field monitoring. When needed, I also enjoy working with clients to identify the suitable best management practices from the perspectives of soil/water quality goal, landscape characteristics, treatment time, and cost. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br>
+
+In the near future, I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to work to maximize the production and cost efficiency of aquaculture through recirculating aquaculture system and/or aquaponics (aquaculture + hydroponics). 
+
+## Skills and Software
+### Skills
+- Data management and analysis (e.g., statistics)
+- Techno-economic analysis
+- Computer aided drawing (CAD)
+- Hydrology modeling and mapping
+- Field survey (e.g., RTK GPS)
+- Field sampling (soil and water)
+- Field construction and instrumentation (automated water samplers, environmental sensors)
+- Lab experimental design and instrumentation
+- Project management
+- Multilingual (English - primary, Mandarin, Malay)
+
+### Software
+- Data management and analysis
+  - MS Excel (VBA programming to manage and analyze large datasets)
+  - Python (to manage and analyze even larger datasets)
+  - JMP (statistical software)
+  - OriginLab (statistical and graphical software)
+- CAD and modeling
+  - AutoCAD
+  - SolidWorks 
+  - ArcGIS
 
 ## Work Experience
-##### Short story
+#### Short story
 - __2018 - present__ : Environmental Research Engineer, _Iowa State University, Ames, IA, USA._ <br>
 - __2018 Spring__    : Research Analyst Intern, _Iowa Soybean Association, Ankeny, IA, USA._ <br>
 - __2015-2017__      : Graduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
@@ -73,6 +105,7 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 ##### 2015 Summer
 
 ##### 2014 - 2015
+
 </details>
 
 ## Publications and Certifications
@@ -80,4 +113,4 @@ I received both my M.S. and B.S. degrees from Iowa State University (ISU). I beg
 ## Fun stuff
 
 
-Thank you for making it this far. If you wish to connect, please email me at jiyeowlaw@gmail.com
+Thank you for your time. If you wish to connect, please email me at jiyeowlaw@gmail.com
