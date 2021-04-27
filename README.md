@@ -103,7 +103,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 ## Work Experience
 <details>
-  <summary style="font-size: 18px;"><strong>2018 - present</strong>: Environmental Research Engineer, Iowa State University, Ames, IA, USA.</summary>
+  <summary style="font-size: 18px;"><strong>2018 - present</strong>: Environmental Engineer, Iowa State University, Ames, IA, USA.</summary>
 
 - description 1 <br>
 - description 2
