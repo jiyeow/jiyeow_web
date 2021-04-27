@@ -4,7 +4,7 @@
   <a href="#skills-and-software">Skills & Software</a> | 
   <a href="#work-experience">Work Experience</a> | 
   <a href="#publications-and-certifications">Publications</a> | 
-  <a href="#fun-stuff">Fun stuff</a> | 
+  <a href="#fun-stuff">Fun stuff</a> 
 </p>
 
 <kbd>
@@ -24,12 +24,10 @@
 - I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
 - I look forward to the next adventures and challenges in a new city/country. <br>
 
-Resume <br>
-<a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/"><img src="linkedin-tb.png" height="30" /></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ"><img src="scholar16-tb.png" height="30" /></a> 
-<a href="https://orcid.org/0000-0003-0964-7487"><img src="orcid-tb.png" height="30" /></a> 
-<a href="https://www.researchgate.net/profile/Ji-Yeow-Law"><img src="researchgate-tb.jpeg" height="30" /></a> 
-
+<a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/">LinkedIn <img src="linkedin-tb.png" height="15" /></a> |
+<a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ">Google Scholar <img src="scholar16-tb.png" height="15" /></a> |
+<a href="https://orcid.org/0000-0003-0964-7487">ORCiD <img src="orcid-tb.png" height="15" /></a> |
+<a href="https://www.researchgate.net/profile/Ji-Yeow-Law">Research Gate <img src="researchgate-tb.jpeg" height="15" /></a> 
 
 ## Education
 #### Short story
