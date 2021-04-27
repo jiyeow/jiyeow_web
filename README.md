@@ -1,5 +1,5 @@
 
-<p style="font-size: 24px; color: black; text-align: center;">
+<p style="font-size: 21px; color: black; text-align: center;">
   <a href="#education">Education</a> |
   <a href="#skills-and-software">Skills & Software</a> | 
   <a href="#work-experience">Work Experience</a> | 
