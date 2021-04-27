@@ -30,7 +30,6 @@
 <a href="https://www.researchgate.net/profile/Ji-Yeow-Law">Research Gate <img src="researchgate-tb.jpeg" height="15" /></a> 
 
 ## Education
-#### Short story
 - __Master of Science (2017), Iowa State University__ <br>
 Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
 Civil Engineering (Environmental Focus) <br>
@@ -48,7 +47,6 @@ GPA: 3.76/4.00 <br>
  </details>
 
 ## Area of Interest and Expertise
-#### Short story
 - Fate and transport of point source and nonpoint source pollutants in the environment
 - Soil and water management and remediation
 - Data management, statistical analysis, techno-economic analysis
@@ -105,7 +103,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 ## Work Experience
 <details>
-  <summary style="font-size: 20px;"><strong>2018 - present</strong>: Environmental Research Engineer, Iowa State University, Ames, IA, USA.</summary>
+  <summary style="font-size: 18px;"><strong>2018 - present</strong>: Environmental Research Engineer, Iowa State University, Ames, IA, USA.</summary>
 
 - description 1 <br>
 - description 2
@@ -113,7 +111,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary style="font-size: 20px;"><strong>2018 Spring</strong>: Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA.</summary>
+  <summary style="font-size: 18px;"><strong>2018 Spring</strong>: Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA.</summary>
 
 - description 1 <br>
 - description 2
@@ -121,7 +119,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary style="font-size: 20px;"><strong>2015-2017</strong>: Graduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
+  <summary style="font-size: 18px;"><strong>2015-2017</strong>: Graduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
 
 - description 1 <br>
 - description 2
@@ -129,7 +127,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary style="font-size: 20px;"><strong>2015 Summer</strong>: Research Intern, University of Malaya, Kuala Lumpur Malaysia.</summary>
+  <summary style="font-size: 18px;"><strong>2015 Summer</strong>: Research Intern, University of Malaya, Kuala Lumpur Malaysia.</summary>
 
 - description 1 <br>
 - description 2
@@ -137,7 +135,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary style="font-size: 20px;"><strong>2014-2015</strong>: Undergraduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
+  <summary style="font-size: 18px;"><strong>2014-2015</strong>: Undergraduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
 
 - description 1 <br>
 - description 2
