@@ -104,26 +104,43 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 ## Work Experience
-#### Short story
-- __2018 - present__ : Environmental Research Engineer, _Iowa State University, Ames, IA, USA._ <br>
-- __2018 Spring__    : Research Analyst Intern, _Iowa Soybean Association, Ankeny, IA, USA._ <br>
-- __2015-2017__      : Graduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
-- __2015 Summer__    : Research Intern, _University of Malaya, Kuala Lumpur Malaysia._ <br>
-- __2014-2015__      : Undergraduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
+<details>
+  <summary style="font-size: 20px;"><strong>2018 - present</strong>: Environmental Research Engineer, Iowa State University, Ames, IA, USA.</summary>
+
+- description 1 <br>
+- description 2
+
+</details>
 
 <details>
-  <summary style="font-size: 20px;"><strong>Long story (click to view)<strong></summary>
+  <summary style="font-size: 20px;"><strong>2018 Spring</strong>: Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA.</summary>
 
-- __2018 - present__ : Environmental Research Engineer, _Iowa State University, Ames, IA, USA._ <br>
-  - xxx
-- __2018 Spring__    : Research Analyst Intern, _Iowa Soybean Association, Ankeny, IA, USA._ <br>
-  - xxx
-- __2015-2017__      : Graduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
-  - xxx
-- __2015 Summer__    : Research Intern, _University of Malaya, Kuala Lumpur Malaysia._ <br>
-  - xxx
-- __2014-2015__      : Undergraduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
-  - xxx
+- description 1 <br>
+- description 2
+
+</details>
+
+<details>
+  <summary style="font-size: 20px;"><strong>2015-2017</strong>: Graduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
+
+- description 1 <br>
+- description 2
+
+</details>
+
+<details>
+  <summary style="font-size: 20px;"><strong>2015 Summer</strong>: Research Intern, University of Malaya, Kuala Lumpur Malaysia.</summary>
+
+- description 1 <br>
+- description 2
+
+</details>
+
+<details>
+  <summary style="font-size: 20px;"><strong>2014-2015</strong>: Undergraduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
+
+- description 1 <br>
+- description 2
 
 </details>
 
