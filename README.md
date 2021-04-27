@@ -1,11 +1,10 @@
 
-<p style="text-align: center; background-color: white;">
+<p style="text-align: center;">
   <a href="#education">Education</a> |
-  <a href="{{site.baseurl}}/admin/">Admin</a> | 
-  <a href="{{site.baseurl}}/schedule/week_1/">Week 1</a> | 
-  <a href="{{site.baseurl}}/schedule/week_2/">Week 2</a> | 
-  <a href="{{site.baseurl}}/schedule/week_3/">Week 3</a> | 
-  <a href="{{site.baseurl}}/general/">Misc</a>
+  <a href="#skills-and-software">Skills & Software</a> | 
+  <a href="#work-experience">Work Experience</a> | 
+  <a href="#publications-and-certifications">Publications</a> | 
+  <a href="#fun-stuff">Fun stuff</a> | 
 </p>
 
 <kbd>
@@ -30,15 +29,15 @@ Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc
 ## Story of my life
 <!--ts-->
 * [Education](#education) <br>
-* [Skills and Software](#skills-and-software) <br>
-* [Work Experience](#work-experience) <br>
+* [Skills and Software](#) <br>
+* [Work Experience](#) <br>
   * [2018 - present](#2018---present) <br>
   * [2018 Spring](#2018-spring) <br>
   * [2015-2017](#2015---2017) <br>
   * [2015 Summer](#2015-summer) <br>
   * [2014-2015](#2014---2015) <br>
-* [Publications and Certifications](#publications-and-certifications) <br>
-* [Fun stuff](#fun-stuff) <br>
+* [Publications and Certifications]() <br>
+* [Fun stuff]() <br>
   * [Travel](#travel) <br>
   * [Hobbies](#hobbies) <br>
 <!--te-->
