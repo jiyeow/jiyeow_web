@@ -1,3 +1,12 @@
+<p style="text-align: center; background-color: white;">
+  <a href="https://jiyeow.github.io/jiyeow_web/#education/">Education</a> |
+  <a href="{{site.baseurl}}/admin/">Admin</a> | 
+  <a href="{{site.baseurl}}/schedule/week_1/">Week 1</a> | 
+  <a href="{{site.baseurl}}/schedule/week_2/">Week 2</a> | 
+  <a href="{{site.baseurl}}/schedule/week_3/">Week 3</a> | 
+  <a href="{{site.baseurl}}/general/">Misc</a>
+</p>
+
 <kbd>
  <img src="jy_pic.jpg" height="500" /> 
 </kbd> <br>
