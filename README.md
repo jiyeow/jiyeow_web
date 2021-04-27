@@ -57,7 +57,7 @@ GPA: 3.76/4.00 <br>
 - Wastewater treatments
 
 <details>
-  <summary><strong>Long story (click to view)</strong></summary>
+  <summary style="font-size: 20px;"><strong>Long story (click to view)</strong></summary>
 
 In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairments) were contributed by intensive agricultural activities. Besides local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As an environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
 
@@ -73,7 +73,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 ## Skills and Software
 <details>
-  <summary><strong>Skills (click to view)</strong></summary>
+  <summary style="font-size: 20px;"><strong>Skills (click to view)</strong></summary>
  
 - Data management and analysis (e.g., statistics)
 - Techno-economic analysis
@@ -89,7 +89,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary><strong>Software (click to view)</strong></summary>
+  <summary style="font-size: 20px;"><strong>Software (click to view)</strong></summary>
  
 - Data management and analysis
   - MS Excel (VBA programming to manage and analyze large datasets)
@@ -112,7 +112,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 - __2014-2015__      : Undergraduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
 
 <details>
-  <summary><strong>Long story (click to view)<strong></summary>
+  <summary style="font-size: 20px;"><strong>Long story (click to view)<strong></summary>
 
 - __2018 - present__ : Environmental Research Engineer, _Iowa State University, Ames, IA, USA._ <br>
   - xxx
@@ -135,7 +135,7 @@ Opportunities and challenges to use electrical stimulation for enhanced denitrif
 Engineer-in-Training (<a href="https://account.ncees.org/rn/1653761-901097-c6e1990/">official verifiable link</a>).
 
 <details>
-  <summary><strong>Peer-reviewed publications (click to view)</strong></summary>
+  <summary style="font-size: 20px;"><strong>Peer-reviewed publications (click to view)</strong></summary>
 - Impact of stacked conservation practices on phosphorus and sediment export at the catchment scale. <br>
 - Spatial and temporal distribution of E. coli contamination on three inland lake and recreational beach systems in the upper Midwestern United States. <br>
 - Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. <br>
