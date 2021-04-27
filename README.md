@@ -25,9 +25,9 @@
 - I look forward to the next adventures and challenges in a new city/country. <br>
 
 <a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/" target="_blank" rel="noopener noreferrer">LinkedIn <img src="linkedin-tb.png" height="15" /></a> |
-<a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ">Google Scholar <img src="scholar16-tb.png" height="15" /></a> |
-<a href="https://orcid.org/0000-0003-0964-7487">ORCiD <img src="orcid-tb.png" height="15" /></a> |
-<a href="https://www.researchgate.net/profile/Ji-Yeow-Law">Research Gate <img src="researchgate-tb.jpeg" height="15" /></a> 
+<a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <img src="scholar16-tb.png" height="15" /></a> |
+<a href="https://orcid.org/0000-0003-0964-7487" target="_blank" rel="noopener noreferrer">ORCiD <img src="orcid-tb.png" height="15" /></a> |
+<a href="https://www.researchgate.net/profile/Ji-Yeow-Law" target="_blank" rel="noopener noreferrer">Research Gate <img src="researchgate-tb.jpeg" height="15" /></a> 
 
 ## Education
 - __Master of Science (2017), Iowa State University__ <br>
@@ -144,10 +144,10 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 ## Publications and Certification
 #### Master's Thesis
-Opportunities and challenges to use electrical stimulation for enhanced denitrification in woodchip bioreactors
+Opportunities and challenges to use electrical stimulation for enhanced denitrification in woodchip bioreactors <a href="https://doi.org/10.31274/etd-180810-5174" target="_blank" rel="noopener noreferrer">(view it here)</a>.
 
 #### Certification
-Engineer-in-Training (<a href="https://account.ncees.org/rn/1653761-901097-c6e1990">official verifiable link</a>).
+Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(official verifiable link)</a>.
 
 <details>
   <summary style="font-size: 20px;"><strong>Peer-reviewed publications (click to view)</strong></summary>
@@ -158,7 +158,7 @@ Engineer-in-Training (<a href="https://account.ncees.org/rn/1653761-901097-c6e19
 - Impact of temperature and hydraulic retention time on pathogen and nutrient removal in woodchip bioreactors. <br>
 - Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. <br>
 - Pilot-scale denitrification bioreactors for replicated field research. <br>
-Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ">Google Scholar <img src="scholar16-tb.png" height="15" /></a> for most updated publications.
+Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <img src="scholar16-tb.png" height="15" /></a> for updated publications.
 
 </details>
 
