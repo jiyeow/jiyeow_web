@@ -1,5 +1,5 @@
 
-<p style="font-size: 21px; color: black; text-align: center;">
+<p style="font-size: 20px; color: black; text-align: center;">
   <a href="#education">Education</a> |
   <a href="#skills-and-software">Skills & Software</a> | 
   <a href="#work-experience">Work Experience</a> | 
@@ -40,7 +40,7 @@ Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
 <details>
-  <summary style="font-size: 20px;"><strong>Long story (click to view)</strong></summary>
+  <summary style="font-size: 18px;"><strong>Long story (click to view)</strong></summary>
    
   I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__. 
    
@@ -55,7 +55,7 @@ GPA: 3.76/4.00 <br>
 - Wastewater treatments
 
 <details>
-  <summary style="font-size: 20px;"><strong>Long story (click to view)</strong></summary>
+  <summary style="font-size: 18px;"><strong>Long story (click to view)</strong></summary>
 
 In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairments) were contributed by intensive agricultural activities. Besides local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As an environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
 
@@ -71,7 +71,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 ## Skills and Software
 <details>
-  <summary style="font-size: 20px;"><strong>Skills (click to view)</strong></summary>
+  <summary style="font-size: 18px;"><strong>Skills (click to view)</strong></summary>
  
 - Data management and analysis (e.g., statistics)
 - Techno-economic analysis
@@ -87,7 +87,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary style="font-size: 20px;"><strong>Software (click to view)</strong></summary>
+  <summary style="font-size: 18px;"><strong>Software (click to view)</strong></summary>
  
 - Data management and analysis
   - MS Excel (VBA programming to manage and analyze large datasets)
