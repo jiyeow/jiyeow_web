@@ -158,7 +158,7 @@ Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e199
 - Impact of temperature and hydraulic retention time on pathogen and nutrient removal in woodchip bioreactors. <br>
 - Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. <br>
 - Pilot-scale denitrification bioreactors for replicated field research. <br>
-Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <img src="scholar16-tb.png" height="15" /></a> for updated publications.
+Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for updated publications.
 
 </details>
 
