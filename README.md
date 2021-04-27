@@ -147,7 +147,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 Opportunities and challenges to use electrical stimulation for enhanced denitrification in woodchip bioreactors
 
 #### Certification
-Engineer-in-Training (<a href="https://account.ncees.org/rn/1653761-901097-c6e1990/">official verifiable link</a>).
+Engineer-in-Training (<a href="https://account.ncees.org/rn/1653761-901097-c6e1990">official verifiable link</a>).
 
 <details>
   <summary style="font-size: 20px;"><strong>Peer-reviewed publications (click to view)</strong></summary>
