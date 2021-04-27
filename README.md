@@ -41,7 +41,7 @@ Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
 <details>
-  <summary>Long story (click for more)</summary>
+  <summary><strong>Long story (click to view)</strong></summary>
    
   I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__. 
    
@@ -57,7 +57,7 @@ GPA: 3.76/4.00 <br>
 - Wastewater treatments
 
 <details>
-  <summary>Long story (click for more)</summary>
+  <summary><strong>Long story (click to view)</strong></summary>
 
 In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairments) were contributed by intensive agricultural activities. Besides local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As an environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
 
@@ -73,7 +73,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 ## Skills and Software
 <details>
-  <summary>Skills (click for more)</summary>
+  <summary><strong>Skills (click to view)</strong></summary>
  
 - Data management and analysis (e.g., statistics)
 - Techno-economic analysis
@@ -89,7 +89,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 </details>
 
 <details>
-  <summary>Software (click for more)</summary>
+  <summary><strong>Software (click to view)</strong></summary>
  
 - Data management and analysis
   - MS Excel (VBA programming to manage and analyze large datasets)
@@ -112,7 +112,7 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 - __2014-2015__      : Undergraduate Research Assistant, _Iowa State University, Ames, IA, USA._ <br>
 
 <details>
-  <summary>Long story (click for more)</summary>
+  <summary><strong>Long story (click to view)<strong></summary>
 
 - __2018 - present__ : Environmental Research Engineer, _Iowa State University, Ames, IA, USA._ <br>
   - xxx
@@ -127,7 +127,25 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 
 </details>
 
-## Publications and Certifications
+## Publications and Certification
+#### Master's Thesis
+Opportunities and challenges to use electrical stimulation for enhanced denitrification in woodchip bioreactors
+
+#### Certification
+Engineer-in-Training (<a href="https://account.ncees.org/rn/1653761-901097-c6e1990/">official verifiable link</a>).
+
+<details>
+  <summary><strong>Peer-reviewed publications (click to view)</strong></summary>
+- Impact of stacked conservation practices on phosphorus and sediment export at the catchment scale. <br>
+- Spatial and temporal distribution of E. coli contamination on three inland lake and recreational beach systems in the upper Midwestern United States. <br>
+- Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. <br>
+- Exploring multiple operating scenarios to identify low-cost, high nitrate removal strategies for electrically-stimulated woodchip bioreactors. <br>
+- Impact of temperature and hydraulic retention time on pathogen and nutrient removal in woodchip bioreactors. <br>
+- Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. <br>
+- Pilot-scale denitrification bioreactors for replicated field research. <br>
+Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ">Google Scholar <img src="scholar16-tb.png" height="15" /></a> for most updated publications.
+
+</details>
 
 ## Fun stuff
 
