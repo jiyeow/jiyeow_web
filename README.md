@@ -20,7 +20,7 @@
 - I am now a full-time research engineer at Iowa State University. <br>
 - I collect environmental samples and chase after waterfowls when I am working outside. <br>
 - I stare at computer screen and drink too much coffee when I am working inside. <br>
-- I enjoy building stuff (woodworking) and fixing stuff (my car) in my garage. <br>
+- I enjoy woodworking and do my own car maintenance in my garage. <br>
 - I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
 - I look forward to the next adventures and challenges in a new city/country. <br>
 
@@ -53,17 +53,21 @@ GPA: 3.76/4.00 <br>
 - Soil and water management and remediation
 - Data management, statistical analysis, techno-economic analysis
 - Aquaculture and aquaponics
+- Water resources management
+- Wastewater treatments
 
 <details>
   <summary>Long story (click for more)</summary>
 
-In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairements) were contributed by the intensive agricultural activities. Besides the local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As a environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
+In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairments) were contributed by intensive agricultural activities. Besides local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As an environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
 
 I am interested in environmental monitoring, which studies the fate and transport of point source (e.g., urban) and nonpoint source (e.g., agriculture) pollutants in the environment. Besides identifying the pollutant sources, I also provide strategies to manage or remediate land and water resources using the most cost-effective approaches. <br>
 
-I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as a proof-of-concept. In the field, I helped nonprofit agencies (ocassionally private clients) to design and perform field monitoring. When needed, I also help clients to identify suitable best management practices that meet his/her/their soil and water quality goals, landscape characteristics, treatment time, and costs. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br> 
+I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as proof-of-concept. In the field, I test and demonstrate the scalability and practicability of successful lab experiments. I also help nonprofit, state, and private agencies design and perform field monitoring. When needed, I also help clients to identify suitable best management practices that meet his/her/their soil and water quality goals, landscape characteristics, treatment time, and costs. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br> 
 
-In the near future, I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve the production and cost efficiency of aquaculture using recirculating aquaculture system and/or aquaponics (aquaculture + hydroponics). 
+Besides environmental monitoring/treatment in the agroecosystems, I also enjoy working on urban water resources management and treatment. I was first exposed to municipal wastewater treatment during my internship after completing my B.S. degree. During my M.S. program, I declared a co-major in Civil (Environmental focus) Engineering and have taken several urban stormwater and wastewater treatment courses. While I primarily work on agroecosystems projects, I occasionally keep myself updated with urban waste/wastewater management and treatment. <br>
+
+Retiring as a fish farmer is my long-term goal, and I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve the production and cost efficiency of aquaculture using recirculating aquaculture systems and/or aquaponics (aquaculture + hydroponics).
 
 </details>
 
