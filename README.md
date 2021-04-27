@@ -26,22 +26,6 @@
 
 Insert resume here; Insert links to LinkedIn, Google Scholar, Research gate, etc. here
 
-## Story of my life
-<!--ts-->
-* [Education](#education) <br>
-* [Skills and Software](#) <br>
-* [Work Experience](#) <br>
-  * [2018 - present](#2018---present) <br>
-  * [2018 Spring](#2018-spring) <br>
-  * [2015-2017](#2015---2017) <br>
-  * [2015 Summer](#2015-summer) <br>
-  * [2014-2015](#2014---2015) <br>
-* [Publications and Certifications]() <br>
-* [Fun stuff]() <br>
-  * [Travel](#travel) <br>
-  * [Hobbies](#hobbies) <br>
-<!--te-->
-
 ## Education
 #### Short story
 - __Master of Science (2017), Iowa State University__ <br>
