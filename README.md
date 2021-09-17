@@ -3,8 +3,8 @@
   <a href="#education">Education</a> |
   <a href="#skills-and-software">Skills & Software</a> | 
   <a href="#work-experience">Work Experience</a> | 
-  <a href="#publications-and-certifications">Publications</a> | 
-  <a href="#fun-stuff">Fun stuff</a> 
+  <a href="#publications-and-certification">Publications</a> | 
+  <a href="#portfolio">Portfolio</a> 
 </p>
 
 <kbd>
@@ -13,7 +13,6 @@
 
 - I grew up in Kuala Lumpur, Malaysia. <br>
 - I moved from Malaysia to Ames, Iowa, United States. <br>
-- I was shocked to find out that Ames is not like Los Angeles (thank you Hollywood). <br>
 - I got my B.S. and M.S. degrees at Iowa State University. <br>
 - I had a few hourly jobs in the research labs when studying. <br>
 - I also had one internship in Malaysia and one in the USA. <br>
@@ -32,8 +31,8 @@
 ## Education
 - __Master of Science (2017), Iowa State University__ <br>
 Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
-Civil Engineering (Environmental Focus) <br>
-Thesis Title: Electrical stimulation for enhanced denitrification in woodchip bioreactors. <br>
+Civil Engineering (Environmental Engineering Focus) <br>
+Thesis Title: Electrical stimulation for enhanced denitrification in woodchip bioreactors <br>
 GPA: 3.92/4.00 <br>
 - __Bachelor of Science, _magna cum laude_, Iowa State University__ (2016) <br>
 Major: Agricultural Engineering (Land & Water Resources Focus) <br>
@@ -48,11 +47,11 @@ GPA: 3.76/4.00 <br>
 
 ## Area of Interest and Expertise
 - Fate and transport of point source and nonpoint source pollutants in the environment
-- Soil and water management and remediation
+- Soil and water management and remediation (i.e., best management practices)
 - Data management, statistical analysis, techno-economic analysis
-- Aquaculture and aquaponics
 - Water resources management
 - Wastewater treatments
+- Aquaculture and aquaponics
 
 <details>
   <summary style="font-size: 18px;"><strong>Long story (click to view)</strong></summary>
@@ -63,9 +62,9 @@ I am interested in environmental monitoring, which studies the fate and transpor
 
 I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as proof-of-concept. In the field, I test and demonstrate the scalability and practicability of successful lab experiments. I also help nonprofit, state, and private agencies design and perform field monitoring. When needed, I also help clients to identify suitable best management practices that meet his/her/their soil and water quality goals, landscape characteristics, treatment time, and costs. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br> 
 
-Besides environmental monitoring/treatment in the agroecosystems, I also enjoy working on urban water resources management and treatment. I was first exposed to municipal wastewater treatment during my internship after completing my B.S. degree. During my M.S. program, I declared a co-major in Civil (Environmental focus) Engineering and have taken several urban stormwater and wastewater treatment courses. While I primarily work on agroecosystems projects, I occasionally keep myself updated with urban waste/wastewater management and treatment. <br>
+Besides environmental monitoring/treatment in the agroecosystems, I also enjoy working on urban water resources management and treatment. I was first exposed to municipal wastewater treatment during my internship after completing my B.S. degree. During my M.S. program, I declared a co-major in Civil (Environmental focus) Engineering and have taken several urban stormwater and wastewater treatment courses. While I primarily work on agroecosystems projects, I occasionally keep myself updated with urban waste/wastewater management and treatment technologies. <br>
 
-Retiring as a fish farmer is my long-term goal, and I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve the production and cost efficiency of aquaculture using recirculating aquaculture systems and/or aquaponics (aquaculture + hydroponics).
+Retiring as a fish farmer is my long-term goal, and I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve the production and cost efficiency of aquaculture using recirculating aquaculture and/or aquaponics systems.
 
 </details>
 
@@ -90,9 +89,9 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
   <summary style="font-size: 18px;"><strong>Software (click to view)</strong></summary>
  
 - Data management and analysis
-  - MS Excel (VBA programming to manage and analyze large datasets)
-  - Python (to manage and analyze even larger datasets)
-  - JMP (statistical software)
+  - MS Excel (VBA programming to manage and analyze simple datasets)
+  - Python (to manage and analyze larger datasets)
+  - JMP and SAS (statistical software)
   - OriginLab (statistical and graphical software)
 - CAD and modeling
   - AutoCAD
@@ -149,21 +148,31 @@ Opportunities and challenges to use electrical stimulation for enhanced denitrif
 #### Certification
 Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(official verifiable link)</a>.
 
-<details>
-  <summary style="font-size: 20px;"><strong>Peer-reviewed publications (click to view)</strong></summary>
-1) Impact of stacked conservation practices on phosphorus and sediment export at the catchment scale. <br>
-2) Spatial and temporal distribution of E. coli contamination on three inland lake and recreational beach systems in the upper Midwestern United States. <br>
-3) Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. <br>
-4) Exploring multiple operating scenarios to identify low-cost, high nitrate removal strategies for electrically-stimulated woodchip bioreactors. <br>
-5) Impact of temperature and hydraulic retention time on pathogen and nutrient removal in woodchip bioreactors. <br>
-6) Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. <br>
-7) Pilot-scale denitrification bioreactors for replicated field research. <br>
-<br>
+#### Publications
 Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for updated publications.
 
-</details>
+## Portfolio
+### Watershed monitoring and remediation
+#### Black Hawk Lake watershed
+Add pictures (50-70% space), objective, technical details, and results/outcomes
 
-## Fun stuff
+#### McFarland Lake watershed
+Add pictures (50-70% space), objective, technical details, and results/outcomes
+
+#### Squak Creek watershed
+Add pictures (50-70% space), objective, technical details, and results/outcomes
+
+### Drainage water denitrification system (Woodchip bioreactors)
+#### Using electrical stimulation to improve denitrification rate
+Add pictures (50-70% space), objective, technical details, and results/outcomes
+
+#### Using corncobs as an alternative low-cost carbon source for denitrification
+Add pictures (50-70% space), objective, technical details, and results/outcomes
+
+#### Adding steel slag as phosphorus sorbent to achieve multi-contaminant removal
+Add pictures (50-70% space), objective, technical details, and results/outcomes
+
+### Assessment of poultry manure as a fertilizer in cash-crop systems
 
 
 Thank you for your time. If you wish to connect, please email me at jiyeowlaw@gmail.com
