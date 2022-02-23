@@ -1,5 +1,5 @@
 
-  <img src="Law-Ji Yeow243 cropped.jpg" height="500" /> 
+  <img src="Law-Ji Yeow243 cropped.jpg" height="300" /> 
 
  <br>
 
