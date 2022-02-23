@@ -1,6 +1,6 @@
-
+<p style="text-align: center">
   <img src="Law-Ji Yeow243 cropped.jpg" height="300" /> 
-
+</p>
  <br>
 
 - I grew up in Kuala Lumpur, Malaysia. <br>
