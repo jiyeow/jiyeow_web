@@ -1,12 +1,4 @@
 
-<p style="font-size: 20px; color: black; text-align: center;">
-  <a href="#education" style="color: black;">Education</a> |
-  <a href="#skills-and-software" style="color: black;">Skills & Software</a> | 
-  <a href="#work-experience" style="color: black;">Work Experience</a> | 
-  <a href="#publications-and-certification" style="color: black;">Publications</a> | 
-</p>
-
-
   <img src="jy_pic.jpg" height="500" /> 
 
  <br>
@@ -23,7 +15,6 @@
 <a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/" target="_blank" rel="noopener noreferrer">LinkedIn <img src="linkedin-tb.png" height="15" /></a> |
 <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <img src="scholar16-tb.png" height="15" /></a> |
 <a href="https://orcid.org/0000-0003-0964-7487" target="_blank" rel="noopener noreferrer">ORCiD <img src="orcid-tb.png" height="15" /></a> |
-<a href="https://www.researchgate.net/profile/Ji-Yeow-Law" target="_blank" rel="noopener noreferrer">Research Gate <img src="researchgate-tb.jpeg" height="15" /></a> 
 
 ## Education
 - __Master of Science (2017), Iowa State University__ <br>
@@ -35,16 +26,10 @@ GPA: 3.92/4.00 <br>
 Major: Agricultural Engineering (Land & Water Resources Focus) <br>
 GPA: 3.76/4.00 <br>
 
-<details>
-  <summary style="font-size: 18px;"><strong>Long story (click to view)</strong></summary>
-   
-  I received both my M.S. and B.S. degrees from Iowa State University (ISU). I began my undergraduate journey in Agricultural Engineering in 2013, focusing on Land & Water Resources Options. While I worked as an undergraduate research assistant (URA), I was fortunate to gain many hands-on experiences in various research projects. As I expressed my interest in pursuing my own research project, my supervisor (Dr. Michelle Soupir) encouraged and supported me to enroll in the concurrent program. This program allowed me to begin my first year of the M.S. program while completing the senior year of my B.S. degree in September 2015. Later, I graduated with a __B.S. degree in Agricultural Engineering _(magna cum laude)_ with an Agribusiness minor__ in May 2016. In July 2017, I received my __M.S. degree co-majoring in Agricultural & Biosystems Engineering and Civil Engineering__. 
-   
- </details>
 
 ## Area of Interest and Expertise
 - Fate and transport of point source and nonpoint source pollutants in the environment
-- Soil and water management and remediation (i.e., best management practices)
+- Soil and water management and remediation 
 - Data management, statistical analysis, techno-economic analysis
 - Water resources management
 - Wastewater treatments
@@ -53,15 +38,16 @@ GPA: 3.76/4.00 <br>
 <details>
   <summary style="font-size: 18px;"><strong>Long story (click to view)</strong></summary>
 
-In Iowa, the primary water quality issues (e.g., nutrients, sediment, bacteria impairments) were contributed by intensive agricultural activities. Besides local water quality concerns, pollutant loading from Iowa also has impacted downstream communities environmentally and economically (i.e., the Gulf of Mexico). As an environmental research engineer, as well as a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
+In Iowa, intensive agricultural activities have contributed to water pollution in many recreational water bodies. Besides local water quality concerns, pollutant loading from Iowa also impacted downstream communities (i.e., the Gulf of Mexico). As an environmental research engineer and a community member who enjoys water recreational activities, I am passionate about improving water quality through best management practices. <br> 
 
-I am interested in environmental monitoring, which studies the fate and transport of point source (e.g., urban) and nonpoint source (e.g., agriculture) pollutants in the environment. Besides identifying the pollutant sources, I also provide strategies to manage or remediate land and water resources using the most cost-effective approaches. <br>
+I am interested in environmental monitoring to investigate the fate and transport of point source (e.g., urban) and nonpoint source (e.g., agriculture) pollutants in the environment. Besides identifying the pollutant sources, I also provide strategies to manage or remediate land and water resources using the most cost-effective approaches. <br>
 
-I enjoy a good mix of tasks in the lab, field, and office. In the lab, I design and conduct lab-scale studies that typically serve as proof-of-concept. In the field, I test and demonstrate the scalability and practicability of successful lab experiments. I also help nonprofit, state, and private agencies design and perform field monitoring. When needed, I also help clients to identify suitable best management practices that meet his/her/their soil and water quality goals, landscape characteristics, treatment time, and costs. Finally, in the office, I typically spend my time writing proposals, budgeting, prepare work plans/SOPs, data analysis (e.g., statistics), and writing technical reports and peer-reviewed articles. <br> 
+I enjoy a good mix of lab, field, and office tasks. In the lab, I design and conduct lab-scale studies that typically serve as a proof-of-concept. In the field, I test and demonstrate the scalability and practicability of successful lab experiments. I also help nonprofit, state, and private agencies design and conduct watershed-scale water quality monitoring. I also help clients identify practical best management practices to meet their soil and water quality goals. Finally, in the office, I typically spend my time writing proposals, budgeting, preparing work plans/SOPs, analyzing data, and writing technical reports and peer-reviewed articles. <br> 
 
-Besides environmental monitoring/treatment in the agroecosystems, I also enjoy working on urban water resources management and treatment. I was first exposed to municipal wastewater treatment during my internship after completing my B.S. degree. During my M.S. program, I declared a co-major in Civil (Environmental focus) Engineering and have taken several urban stormwater and wastewater treatment courses. While I primarily work on agroecosystems projects, I occasionally keep myself updated with urban waste/wastewater management and treatment technologies. <br>
+Besides environmental monitoring/treatment in agroecosystems, I am also interested in urban water resources management and treatment. I was exposed to municipal wastewater treatment during my internship after completing my B.S. degree. During my M.S. program, I included Civil (Environmental focus) Engineering as my co-major and have taken several urban stormwater and wastewater treatment courses. While I primarily work on agroecosystems projects, I keep myself updated with urban waste/wastewater management and treatment technologies. <br>
 
-Retiring as a fish farmer is my long-term goal, and I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve the production and cost efficiency of aquaculture using recirculating aquaculture and/or aquaponics systems.
+Retiring as a fish farmer is my long-term goal, and I wish to apply my water quality expertise in sustainable aquaculture. Specifically, I aim to improve aquaculture production and cost efficiency using recirculating aquaculture or aquaponics systems.
+
 
 </details>
 
@@ -100,52 +86,71 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 <details>
   <summary style="font-size: 18px;"><strong>2018 - present</strong>: Environmental Engineer, Iowa State University, Ames, IA, USA.</summary>
 
-- description 1 <br>
-- description 2
-
+- Provide consulting services to address environmental issues using practical, cost-effective approaches <br>
+  - Collect water quantity/quality and topographic data <br>
+  - Model pollutant transport to calculate waste load allocations (TMDLs) <br>
+- Develop and demonstrate innovative water management/remediation technologies to improve performance and reduce cost <br>
+  - Prepare research proposals for funding to execute ideas and deliver results <br>
+  - Collaborate with multi-disciplinary peers to address higher-level issues <br>
+- Install, maintain, and operate water monitoring stations and sensors <br>
+- Prepare work plans and SOPs to ensure high quality and consistent work <br>
+- Automate data management and analysis to improve efficiency <br>
+- Conduct engineering cost analysis to examine and improve cost-efficiency <br>
+- Develop watershed management plans, reports, and refereed articles <br>
+- Support OSHA compliance training to ensure safe work environments <br>
+- Manage and forecast expenses to track and allocate project resources <br>
+- Mentor and train new employees for career progression
 </details>
 
 <details>
   <summary style="font-size: 18px;"><strong>2018 Spring</strong>: Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA.</summary>
 
-- description 1 <br>
-- description 2
-
+- Used H&H models to estimate nitrogen loading and reduction across Iowa <br>
+  - Computed surface/subsurface nitrogen loads in tile-drained landscapes <br>
+  - Computed flows and nitrogen load reductions of bioreactors 
 </details>
 
 <details>
   <summary style="font-size: 18px;"><strong>2015-2017</strong>: Graduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
 
-- description 1 <br>
-- description 2
-
+- Led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies <br>
+  - Developed engineering drawings of the finalized bioreactor design for peer-reviewed publication <br>
+  - Responsible for daily operation, maintenance, and sampling of bioreactors <br>
+  - Performed data management, analysis, and interpretation of research data <br>
+  - Conducted techno-economic analysis to evaluate the cost feasibility of modified bioreactors compared to conventional bioreactors <br>
+ 
 </details>
 
 <details>
   <summary style="font-size: 18px;"><strong>2015 Summer</strong>: Research Intern, University of Malaya, Kuala Lumpur Malaysia.</summary>
 
-- description 1 <br>
-- description 2
-
+- Assisted a research study to investigate the efficiency of enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions <br>
+  - Performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors <br>
+  - Produced a literature review report on extended aeration wastewater treatments systems <br>
 </details>
 
 <details>
   <summary style="font-size: 18px;"><strong>2014-2015</strong>: Undergraduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
 
-- description 1 <br>
-- description 2
-
+- Assisted studies on water and soil quality research
+  - Supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site
+  - Performed water sampling and maintenance for lab-scale denitrification bioreactors
+  - Performed soil/water sampling in corn-soybean research plots receiving poultry manure
+- Conducted chemical, biological, and physical analyses of soil/water samples in the laboratory
+- Developed engineering drawings of bioreactors for peer-reviewed publication
 </details>
 
 ## Publications and Certification
-#### Master's Thesis
-Opportunities and challenges to use electrical stimulation for enhanced denitrification in woodchip bioreactors <a href="https://doi.org/10.31274/etd-180810-5174" target="_blank" rel="noopener noreferrer">(view it here)</a>.
-
-#### Certification
-Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(official verifiable link)</a>.
-
 #### Publications
 Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for updated publications.
+
+#### Master's Thesis
+Opportunities and challenges to use electrical stimulation for enhanced denitrification in woodchip bioreactors <a href="https://doi.org/10.31274/etd-180810-5174" target="_blank" rel="noopener noreferrer">(Download)</a>.
+
+#### Certification
+Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(Official verifiable link)</a>.
+
+
 
 
 
