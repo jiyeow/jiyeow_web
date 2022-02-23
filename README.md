@@ -1,10 +1,9 @@
 
 <p style="font-size: 20px; color: black; text-align: center;">
   <a href="#education" style="color: black;">Education</a> |
-  <a href="#skills-and-software">Skills & Software</a> | 
-  <a href="#work-experience">Work Experience</a> | 
-  <a href="#publications-and-certification">Publications</a> | 
-  <a href="#portfolio">Portfolio</a> 
+  <a href="#skills-and-software" style="color: black;">Skills & Software</a> | 
+  <a href="#work-experience" style="color: black;">Work Experience</a> | 
+  <a href="#publications-and-certification" style="color: black;">Publications</a> | 
 </p>
 
 
@@ -17,6 +16,9 @@
 - I received my B.S. (2016) and M.S. (2017) degrees at Iowa State University. <br>
 - I am an environmental research engineer (2018 - present) at Iowa State University. <br>
 - I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
+
+<a href="Ji Yeow Law - Resume.pdf">Download resume here</a> <br>
+<a href="Ji Yeow Law - Portfolio.pdf">Download portfolio here</a> <br>
 
 <a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/" target="_blank" rel="noopener noreferrer">LinkedIn <img src="linkedin-tb.png" height="15" /></a> |
 <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <img src="scholar16-tb.png" height="15" /></a> |
@@ -145,8 +147,7 @@ Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e199
 #### Publications
 Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for updated publications.
 
-## Portfolio
-<a href="Ji Yeow Law - Portfolio.pdf">Download portfolio here</a>
+
 
 
 Thank you for your time. If you wish to connect, please email me at jiyeowlaw@gmail.com
