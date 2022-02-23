@@ -1,22 +1,21 @@
 
 <p style="font-size: 20px; color: black; text-align: center;">
-  <a href="#education">Education</a> |
+  <a href="#education" style="color: black;">Education</a> |
   <a href="#skills-and-software">Skills & Software</a> | 
   <a href="#work-experience">Work Experience</a> | 
   <a href="#publications-and-certification">Publications</a> | 
   <a href="#portfolio">Portfolio</a> 
 </p>
 
-<kbd>
- <img src="jy_pic.jpg" height="500" /> 
-</kbd> <br>
+
+  <img src="jy_pic.jpg" height="500" /> 
+
+ <br>
 
 - I grew up in Kuala Lumpur, Malaysia. <br>
-- I moved from Malaysia to Ames, Iowa, United States. <br>
-- I got my B.S. and M.S. degrees at Iowa State University. <br>
-- I am an environmental research engineer at Iowa State University. <br>
-- I collect environmental samples and chase after waterfowls when I am working outside. <br>
-- I stare at computer screen and drink too much coffee when I am working inside. <br>
+- I moved from Malaysia to United States in 2013. <br>
+- I received my B.S. (2016) and M.S. (2017) degrees at Iowa State University. <br>
+- I am an environmental research engineer (2018 - present) at Iowa State University. <br>
 - I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
 
 <a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/" target="_blank" rel="noopener noreferrer">LinkedIn <img src="linkedin-tb.png" height="15" /></a> |
@@ -26,8 +25,8 @@
 
 ## Education
 - __Master of Science (2017), Iowa State University__ <br>
-Co-majors: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
-Civil Engineering (Environmental Engineering Focus) <br>
+Co-major: Agricultural & Biosystems Engineering (Land & Water Resources Focus) <br>
+Co-major: Civil Engineering (Environmental Engineering Focus) <br>
 Thesis Title: Electrical stimulation for enhanced denitrification in woodchip bioreactors <br>
 GPA: 3.92/4.00 <br>
 - __Bachelor of Science, _magna cum laude_, Iowa State University__ (2016) <br>
@@ -68,11 +67,11 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
 <details>
   <summary style="font-size: 18px;"><strong>Skills (click to view)</strong></summary>
  
-- Data management and analysis (e.g., statistics)
-- Techno-economic analysis
+- Data management and analysis 
+- Engineering economic analysis
 - Computer aided drawing (CAD)
-- Hydrology modeling and mapping
-- Field survey (e.g., RTK GPS)
+- Hydrology and hydraulic (H&H) modeling 
+- Field survey (e.g., RTK GPS, GNSS)
 - Field sampling (soil and water)
 - Field construction and instrumentation (automated water samplers, environmental sensors)
 - Lab experimental design and instrumentation
@@ -85,11 +84,10 @@ Retiring as a fish farmer is my long-term goal, and I wish to apply my water qua
   <summary style="font-size: 18px;"><strong>Software (click to view)</strong></summary>
  
 - Data management and analysis
-  - MS Excel (VBA programming to manage and analyze simple datasets)
-  - Python (to manage and analyze larger datasets)
-  - JMP and SAS (statistical software)
-  - OriginLab (statistical and graphical software)
-- CAD and modeling
+  - MS Excel
+  - Python, VBA 
+  - JMP, SAS, OriginLab 
+- CAD and H&H models
   - AutoCAD
   - SolidWorks 
   - ArcGIS
@@ -148,27 +146,7 @@ Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e199
 Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for updated publications.
 
 ## Portfolio
-### Watershed monitoring and remediation
-#### Black Hawk Lake watershed
-Add pictures (50-70% space), objective, technical details, and results/outcomes
-
-#### McFarland Lake watershed
-Add pictures (50-70% space), objective, technical details, and results/outcomes
-
-#### Squak Creek watershed
-Add pictures (50-70% space), objective, technical details, and results/outcomes
-
-### Drainage water denitrification system (Woodchip bioreactors)
-#### Using electrical stimulation to improve denitrification rate
-Add pictures (50-70% space), objective, technical details, and results/outcomes
-
-#### Using corncobs as an alternative low-cost carbon source for denitrification
-Add pictures (50-70% space), objective, technical details, and results/outcomes
-
-#### Adding steel slag as phosphorus sorbent to achieve multi-contaminant removal
-Add pictures (50-70% space), objective, technical details, and results/outcomes
-
-### Assessment of poultry manure as a fertilizer in cash-crop systems
+<a href="Ji Yeow Law - Portfolio.pdf">Download portfolio here</a>
 
 
 Thank you for your time. If you wish to connect, please email me at jiyeowlaw@gmail.com
