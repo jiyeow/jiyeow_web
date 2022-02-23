@@ -14,14 +14,10 @@
 - I grew up in Kuala Lumpur, Malaysia. <br>
 - I moved from Malaysia to Ames, Iowa, United States. <br>
 - I got my B.S. and M.S. degrees at Iowa State University. <br>
-- I had a few hourly jobs in the research labs when studying. <br>
-- I also had one internship in Malaysia and one in the USA. <br>
-- I am now a full-time research engineer at Iowa State University. <br>
+- I am an environmental research engineer at Iowa State University. <br>
 - I collect environmental samples and chase after waterfowls when I am working outside. <br>
 - I stare at computer screen and drink too much coffee when I am working inside. <br>
-- I enjoy woodworking and do my own car maintenance in my garage. <br>
 - I obsess with camping, hiking, biking, skiing, fishing, canoeing, and snorkelling. <br>
-- I look forward to the next adventures and challenges in a new city/country. <br>
 
 <a href="https://www.linkedin.com/in/ji-yeow-law-eit-bb040b65/" target="_blank" rel="noopener noreferrer">LinkedIn <img src="linkedin-tb.png" height="15" /></a> |
 <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <img src="scholar16-tb.png" height="15" /></a> |
